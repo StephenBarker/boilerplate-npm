@@ -1,4 +1,5 @@
 {
+	"keywords": ["freecodecamp", "npm", "other things"],
 	"description": "this is my project, A project that does something awesome",
 	"author":  "Stephen Barker",
 	"name": "fcc-learn-npm-package-json",
